@@ -1,5 +1,6 @@
 function minDate(dates) {
   //write you code here
+	
 }
 
 // Do not change the code
